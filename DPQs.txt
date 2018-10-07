@@ -1,0 +1,42 @@
+DP Class 1, 21 April 2018
+
+Q1 : Wine Problem
+
+"Imagine you have a collection of N wines placed next to each other on a shelf. For simplicity, let's number the wines from left to right as they are standing on the shelf with integers from 1 to N, respectively. The price of the ith wine is pi. (prices of different wines can be different).
+
+Because the wines get better every year, supposing today is the year 1, on year y the price of the ith wine will be y*pi, i.e. y-times the value of original year.
+
+You want to sell all the wines you have, but you want to sell exactly one wine per year, starting on this year. One more constraint - on each year you are allowed to sell only either the leftmost or the rightmost wine on the shelf and you are not allowed to reorder the wines on the shelf (i.e. they must stay in the same order as they are in the beginning).
+
+You want to find out, what is the maximum profit you can get, if you sell the wines in optimal order?"
+
+Q2 : Coin Change : https://hack.codingblocks.com/practice/p/346/258
+
+Q3 : Rod Cutting
+
+Given a rod of length n inches and an array of prices that contains prices of all pieces of size smaller than n. Determine the maximum value obtainable by cutting up the rod and selling the pieces. 
+
+Example, if length of the rod is 8 and the values of different pieces are given as following, then the maximum obtainable value is 22 (by cutting in two pieces of lengths 2 and 6)
+
+length   |  1   2   3   4   5   6   7   8  
+--------------------------------------------
+price     |  1   5   8   9  10  17  17  20
+
+
+If the prices are as following, then the maximum obtainable value is 24 (by cutting in eight pieces of length 1)
+
+length   |  1   2   3   4   5   6   7   8  
+--------------------------------------------
+price     |  3   5   8   9  10  17  17  20
+
+
+DP Class 2, 22 April 2018
+
+Minimum Trials Needed : https://hack.codingblocks.com/practice/p/346/75
+
+Palindrome Partitioning : https://hack.codingblocks.com/practice/p/346/1270
+
+Mixtures : https://hack.codingblocks.com/practice/p/346/1069 
+
+Minimum Money Needed : https://hack.codingblocks.com/practice/p/346/256
+
